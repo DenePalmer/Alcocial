@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="8f1c8be0-bfa5-4c83-b827-4f85ac3a40b4" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>true</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.ObjectModel.ObservableCollection`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>false</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://alcocial.cloudapp.net/Service1.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Service15.xsd" MetadataType="Schema" ID="760840f7-b28a-40f1-a82e-bbbd8ba4ccc9" SourceId="1" SourceUrl="http://alcocial.cloudapp.net/Service1.svc?xsd=xsd4" />
+    <MetadataFile FileName="Service151.xsd" MetadataType="Schema" ID="4df1dadd-b993-4461-9701-9b036d6cb8cd" SourceId="1" SourceUrl="http://alcocial.cloudapp.net/Service1.svc?xsd=xsd2" />
+    <MetadataFile FileName="Service152.xsd" MetadataType="Schema" ID="a812ea36-ba3c-4805-8e35-f021bea0f935" SourceId="1" SourceUrl="http://alcocial.cloudapp.net/Service1.svc?xsd=xsd3" />
+    <MetadataFile FileName="Service153.xsd" MetadataType="Schema" ID="6bc9f21f-999e-442b-baf0-58ed7dc23cfc" SourceId="1" SourceUrl="http://alcocial.cloudapp.net/Service1.svc?xsd=xsd0" />
+    <MetadataFile FileName="Service154.xsd" MetadataType="Schema" ID="cdf4c00e-8831-4fae-8aeb-f9dc02713523" SourceId="1" SourceUrl="http://alcocial.cloudapp.net/Service1.svc?xsd=xsd1" />
+    <MetadataFile FileName="Service11.disco" MetadataType="Disco" ID="e9fc52c2-fca5-4b21-b645-2450967840d1" SourceId="1" SourceUrl="http://alcocial.cloudapp.net/Service1.svc?disco" />
+    <MetadataFile FileName="Service11.wsdl" MetadataType="Wsdl" ID="bba7c58f-ab1f-4148-9cfe-b905c04aae77" SourceId="1" SourceUrl="http://alcocial.cloudapp.net/Service1.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

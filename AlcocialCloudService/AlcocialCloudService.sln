@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "AlcocialCloudService", "AlcocialCloudService\AlcocialCloudService.ccproj", "{9DD4AB01-50D6-4513-8EB0-0F9C8A8E9E9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFServiceWebRole1", "WCFServiceWebRole1\WCFServiceWebRole1.csproj", "{51459A8E-1DEA-4FFA-9908-9835C5359584}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DD4AB01-50D6-4513-8EB0-0F9C8A8E9E9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DD4AB01-50D6-4513-8EB0-0F9C8A8E9E9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DD4AB01-50D6-4513-8EB0-0F9C8A8E9E9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DD4AB01-50D6-4513-8EB0-0F9C8A8E9E9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51459A8E-1DEA-4FFA-9908-9835C5359584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51459A8E-1DEA-4FFA-9908-9835C5359584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51459A8E-1DEA-4FFA-9908-9835C5359584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51459A8E-1DEA-4FFA-9908-9835C5359584}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
